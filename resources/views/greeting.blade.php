@@ -1,0 +1,1 @@
+<H2>Bacalah pesan ini sebelum mulai {{ $pesan }}!</H2>
